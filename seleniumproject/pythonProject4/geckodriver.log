@@ -1,0 +1,10 @@
+1599036991169	geckodriver	INFO	Listening on 127.0.0.1:51742
+1599036992108	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/pt/5x2csg3s2sxbm31lmwwp0fsm0000gp/T/rust_mozprofilesv176u"
+1599036995912	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1599036996176	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1599036996176	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1599036996176	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1599036996176	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1599036997951	Marionette	INFO	Listening on port 51757
+1599036997979	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599037062877	Marionette	INFO	Stopped listening on port 51757

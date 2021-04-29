@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../CODEWITHHARRY/.idea/CODEWITHHARRY.iml" filepath="$PROJECT_DIR$/../CODEWITHHARRY/.idea/CODEWITHHARRY.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Velocity/.idea/Velocity.iml" filepath="$PROJECT_DIR$/../Velocity/.idea/Velocity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../practice/.idea/practice.iml" filepath="$PROJECT_DIR$/../practice/.idea/practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pytestdemo/.idea/pytestdemo.iml" filepath="$PROJECT_DIR$/../pytestdemo/.idea/pytestdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/resourcefile/pytestsDemo/.idea/pytestsDemo.iml" filepath="$PROJECT_DIR$/resourcefile/pytestsDemo/.idea/pytestsDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/rahulshetty.iml" filepath="$PROJECT_DIR$/.idea/rahulshetty.iml" />
+    </modules>
+  </component>
+</project>

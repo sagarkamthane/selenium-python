@@ -1,0 +1,25 @@
+1. any pytestdemo file should start with test_ or end with _test
+2. pytestdemo method should start with test
+3. any test should be wrapped in function only
+
+Running test cases in terminal/cmd prompt
+1. copy path of directory ex: cd /Users/sagarkamthane/PycharmProjects/pytestdemo
+2. go to that directory in terminal
+3. hit py.test
+4. py.test -v (v: verbrose, shows more information)
+5. py.test -v -s (also prints the output)
+6. to run a specific file use : py.test pytestpractice/test_demo1.py -v -s
+7. to run a specific tesecase from any file use: py.test -k case1 -v -s
+   -k : test case execution by method name
+   -v : more info in metadata
+   -s : logs and output in metadata
+8. to run a test case with with specific tag ex: @pytest.mark.smoke use py.test -m smoke  -v -s
+
+
+Fixtures:
+1. use @pytest.fixture to define a module as a fixture
+2. that module will be treated as a precondition
+3.
+
+to generate report use --html = report.html
+py.test -s -v --html=report.html

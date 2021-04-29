@@ -1,0 +1,12 @@
+2021-04-19 20:44:57,562 : INFO : test_case_one : ['sagar', 'kamthane']
+2021-04-19 20:44:57,562 : INFO : test_case_one : sagar
+2021-04-19 20:44:57,562 : INFO : test_case_one : kamthane
+2021-04-19 20:44:57,569 : INFO : test_testdata : ['sagar', 'kamthane']
+2021-04-19 20:44:57,569 : INFO : test_testdata : sagar
+2021-04-19 20:44:57,569 : INFO : test_testdata : kamthane
+2021-04-19 20:48:15,519 : INFO : test_case_one : ['sagar', 'kamthane']
+2021-04-19 20:48:15,519 : INFO : test_case_one : sagar
+2021-04-19 20:48:15,519 : INFO : test_case_one : kamthane
+2021-04-19 20:48:15,527 : INFO : test_testdata : ['sagar', 'kamthane']
+2021-04-19 20:48:15,527 : INFO : test_testdata : sagar
+2021-04-19 20:48:15,527 : INFO : test_testdata : kamthane

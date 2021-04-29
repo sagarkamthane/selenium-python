@@ -1,0 +1,5 @@
+$$("a[class = 'social-login']")
+
+pip install pytest-logger
+
+py.test -v --html=report.html --capture=tee-sys
