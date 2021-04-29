@@ -1,0 +1,23 @@
+use git from windows command prompt
+
+git config --global user.name "Sam Smith”
+
+git config --global user.email sam@example.com
+
+Git init : initializes git in the provided file path
+
+Git add * : adds everything from the file to staging
+
+git add filepath : adds specified file
+
+git status : shows commit status
+
+git commit -m “message” : commits everything on GitHub
+
+git remote add origin https://github.com/sagarkamthane/selenium-python.git :connects local repository to GitHub
+
+git push -u origin master : pushes all code to master branch
+
+git clone https://github.com/sagarkamthane/selenium-python.git : clones repository from github to local machine
+
+
