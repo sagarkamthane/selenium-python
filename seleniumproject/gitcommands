@@ -20,4 +20,5 @@ git push -u origin master : pushes all code to master branch
 
 git clone https://github.com/sagarkamthane/selenium-python.git : clones repository from github to local machine
 
+git pull origin master
 
